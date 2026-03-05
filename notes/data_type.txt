@@ -1,0 +1,15 @@
+numeric
+    int = to enter interger value (1,2,3,4,5)
+    float = enter desimal value(10.5, 10.7)
+    complex = to enter mix value (1j+5, 5f-)
+sequential datatype
+    str = enter string(normal caracter)
+    list = enter list start [10,20,30]
+    tuple = enter ()
+    range range(1,10)
+map datatype
+    dict {key:value}
+set datatype
+    set use{}
+boolean datatype
+    bool = enter true or false
